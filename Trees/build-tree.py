@@ -27,7 +27,6 @@ def build_tree(nums):
             node.right = TreeNode(nums[i])
             queue.append(node.right)
         i += 1
-
     return root
 
 print(build_tree([1,2,3,4,5,6,8]))
