@@ -29,6 +29,6 @@ def betterCompression(s):
         
 
 
-print(betterCompression("a3c3b3"))
+print(betterCompression("a3c3b3A5"))
 
 
